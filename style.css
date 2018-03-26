@@ -1,0 +1,21 @@
+body {
+      background: url(step.jpg) no-repeat right;
+      background-size: cover;
+}
+
+.title {
+      margin-left: 130px;
+      font-family: 'Libre Baskerville', serif;
+}
+
+.button a {
+      text-transform: uppercase;
+      text-decoration: none;
+      padding: 20px 50px;
+      color: #FFA500;
+      font-family: 'Libre Baskerville', serif;
+}
+
+.text {
+      font-family: 'Libre Baskerville', serif;
+}
